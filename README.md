@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aidan Au</h1>
 <h3 align="center">Full Stack/Backend Engineer</h3>
 
-- 🌱 My favorite book to learn Java is **Head First: Java**
+- 🌱 My favorite book to learn Java is **Head First: Java** Effective Java is also on my reading list. 
 
 - 📫 I'm happy to chat **Aidan.Au.Linkedin@gmail.com**
 - Or connect with me on Linkedin https://linkedin.com/in/aidanaudata
