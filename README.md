@@ -15,7 +15,7 @@ You can check out some of my projects in the **Pinned Repos** below.
 
 Languages: Java, Javascript, HTML, CSS, Python
 
-Frameworks: React, Spring Boot
+Frameworks: React, Spring Boot, Axios
 
 MicroService Architecture/Amazon Web Services: Lambda Functions, DynamoDB, API Gateway, CloudFormation, CloudWatch, IAM
 
