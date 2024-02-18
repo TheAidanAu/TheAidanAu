@@ -13,4 +13,5 @@ I'm a FullStack Developer specialied in Backend. I can help you with AWS impleme
 I have a background in Advertisitng/Digital Marketing/E-commerce. 
 
 ## What have I been up to? 
+I'm completing Bloomtech's [Enterprise Backend Developement]([url](https://www.bloomtech.com/courses/backend-development)) program that was co-developed by Amazon to supplement my working knowledge of Java as well as the learn the development technologies surrounding Java.
 
