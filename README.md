@@ -9,6 +9,7 @@
 
 I'm a FullStack Developer specialied in Backend. I can help you with AWS implementation, deployment, configuration and MicroService Architecture .
 
+## What have I been up to? 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
