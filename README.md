@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aidan Au</h1>
-<h3 align="center">Full Stack/Backend Engineer</h3>
+
+I'm a full-stack software engineer with 1 year of experience specializing in Javascript, React, Java, Sprint Boot, Python and Amazon Web Services (AWS). I enjoy tackling challenging problems that help make people's lives better.
+I have a background in Advertisitng/Digital Marketing/E-commerce. 
+You can check out some of my projects in the **Pinned Repos** below.
 
 - 🌱 My favorite book to learn Java is **Head First: Java**. **Effective Java** is also on my reading list. 
 
@@ -8,9 +11,13 @@
 
 - ⚡ Fun fact **I'm the only person in the family in the US. I was born and grew up in Hong Kong.**
 
-I am a software engineer specializing in Java Backend or API developement. I can help you with AWS implementation, deployment, configuration and MicroService Architecture.
-I have a background in Advertisitng/Digital Marketing/E-commerce. 
-You can check out some of my projects in the **Pinned Repos** below.
+## SKILLS AND TOOLS ##
+
+Languages: Java, Javascript, HTML, CSS
+Frameworks: React, Spring Boot
+MicroService Architecture/Amazon Web Services: Lambda Functions, DynamoDB, API Gateway, CloudFormation, CloudWatch, IAM
+
+More: Git, Github, REST APIs, Object-Oriented Programming, JUnit Testing, Dagger Dependency Injection, IntelliJ, VS Code, Postman, Class and Sequence Diagrams (UML)
 
 ## What have I been up to? 
 I'm completing Bloomtech's [Enterprise Backend Developement](https://www.bloomtech.com/courses/backend-development) program that was co-developed by [Amazon](https://amazontechnicalacademy.com/training-providers) to supplement my working knowledge of Java as well as the learn the development technologies surrounding Java.
