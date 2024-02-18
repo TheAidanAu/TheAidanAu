@@ -11,7 +11,7 @@ You can check out some of my projects in the **Pinned Repos** below.
 
 - ⚡ Fun fact **I'm the only person in the family in the US. I was born and grew up in Hong Kong.**
 
-## SKILLS AND TOOLS ##
+## Skills & Tools ##
 
 Languages: Java, Javascript, HTML, CSS
 Frameworks: React, Spring Boot
