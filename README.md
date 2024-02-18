@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Aidan Au</h1>
+<h3>Hi 👋, I'm Aidan Au</h1>
 
 I'm a full-stack software engineer with 1 year of experience specializing in Javascript, React, Java, Sprint Boot, Python and Amazon Web Services (AWS). I enjoy tackling challenging problems that help make people's lives better.
 I have a background in Advertisitng/Digital Marketing/E-commerce. 
