@@ -13,8 +13,10 @@ You can check out some of my projects in the **Pinned Repos** below.
 
 ## Skills & Tools ##
 
-Languages: Java, Javascript, HTML, CSS
+Languages: Java, Javascript, HTML, CSS, Python
+
 Frameworks: React, Spring Boot
+
 MicroService Architecture/Amazon Web Services: Lambda Functions, DynamoDB, API Gateway, CloudFormation, CloudWatch, IAM
 
 More: Git, Github, REST APIs, Object-Oriented Programming, JUnit Testing, Dagger Dependency Injection, IntelliJ, VS Code, Postman, Class and Sequence Diagrams (UML)
