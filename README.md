@@ -5,7 +5,7 @@
 
 - 📫 I'm happy to chat **Aidan.Au.Linkedin@gmail.com**
 - Or connect with me on Linkedin https://linkedin.com/in/aidanaudata
-- Language: Java, Javascript, Python; Framework: Sprint Boot, React
+- Languages: Java, Javascript, Python; Framework: Sprint Boot, React
 
 - ⚡ Fun fact **I'm the only person in the family in the US. I was born and grew up in Hong Kong.**
 
