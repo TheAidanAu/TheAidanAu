@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I'm the only person in the family in the US. I was born and grew up in Hong Kong.**
 
-I'm a FullStack Developer specialied in Backend. I can help you with AWS implementation, deployment, configuration and MicroService Architecture .
+I'm a FullStack Developer specialied in Backend. I can help you with AWS implementation, deployment, configuration and MicroService Architecture.
 
 ## What have I been up to? 
 
