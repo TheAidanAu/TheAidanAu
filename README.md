@@ -4,6 +4,7 @@
 - 🌱 My favorite book to learn Java is **Head First: Java**
 
 - 📫 I'm happy to chat **Aidan.Au.Linkedin@gmail.com**
+- Or connect with me on Linkedin https://linkedin.com/in/aidanaudata
 
 - ⚡ Fun fact **I'm the only person in the family in the US. I was born and grew up in Hong Kong.**
 
