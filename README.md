@@ -10,6 +10,7 @@
 
 I am a software engineer specializing in Java Backend or API developement. I can help you with AWS implementation, deployment, configuration and MicroService Architecture.
 I have a background in Advertisitng/Digital Marketing/E-commerce. 
+You can check out some of my projects in the **Pinned Repos** below.
 
 ## What have I been up to? 
 I'm completing Bloomtech's [Enterprise Backend Developement](https://www.bloomtech.com/courses/backend-development) program that was co-developed by [Amazon](https://amazontechnicalacademy.com/training-providers) to supplement my working knowledge of Java as well as the learn the development technologies surrounding Java.
