@@ -15,4 +15,4 @@ I have a background in Advertisitng/Digital Marketing/E-commerce.
 ## What have I been up to? 
 I'm completing Bloomtech's [Enterprise Backend Developement](https://www.bloomtech.com/courses/backend-development) program that was co-developed by [Amazon](https://amazontechnicalacademy.com/training-providers) to supplement my working knowledge of Java as well as the learn the development technologies surrounding Java.
 
-
+At Microsoft, I supported a team of 30+ Account Mangers. I was able to perfect solving problems, one ticket at a time. With my problem-solving mindset and software development skills, I identify and address complex business challenges such as scaling support for applications. Now I've embarked on the software development journey with the goal to help companies scale their operations reliably.
