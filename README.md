@@ -16,7 +16,7 @@ Languages: Java, Javascript, HTML, CSS, Python
 
 Frameworks: React, Spring Boot, Axios
 
-MicroService Architecture/Amazon Web Services: Lambda Functions, DynamoDB, API Gateway, CloudFormation, CloudWatch, IAM
+MicroService Architecture/Amazon Web Services: Lambda Functions, DynamoDB, API Gateway, CloudFormation, CloudWatch
 
 More: Git, Github, REST APIs, Object-Oriented Programming, JUnit Testing, Dagger Dependency Injection, IntelliJ, VS Code, Postman, Class and Sequence Diagrams (UML), SQL, PostgreSQL
 
