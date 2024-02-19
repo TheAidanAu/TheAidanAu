@@ -18,7 +18,7 @@ Frameworks: React, Spring Boot, Axios
 
 MicroService Architecture/Amazon Web Services: Lambda Functions, DynamoDB, API Gateway, CloudFormation, CloudWatch
 
-More: Git, Github, REST APIs, JUnit Testing, Dagger Dependency Injection, Postman, Class and Sequence Diagrams (UML), SQL, PostgreSQL
+More: REST APIs, JUnit Testing, Dagger Dependency Injection, Postman, Class and Sequence Diagrams (UML), SQL, PostgreSQL
 
 ## What have I been up to? ##
 I've completed Bloomtech's [Enterprise Backend Developement](https://www.bloomtech.com/courses/backend-development) program that was co-developed by [Amazon](https://amazontechnicalacademy.com/training-providers) to supplement my working knowledge of Java as well as the learn the development technologies surrounding Java. Prior to software engineering, I was working at Microsoft. 
