@@ -8,7 +8,7 @@ You can check out some of my projects in the **Pinned Repos** below.
 
 - 📫 I'm happy to chat **Aidan.Au.Linkedin@gmail.com** Or connect with me on Linkedin https://linkedin.com/in/aidanaudata
 
-- ⚡ Fun fact **I'm the only person in the family in the US. I was born and grew up in Hong Kong.**
+- ⚡ Fun fact **I'm the only person in my family in the US. I was born and grew up in Hong Kong.**
 
 <h3> Skills & Tools </h3>
 
